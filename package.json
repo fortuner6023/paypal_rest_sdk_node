@@ -1,0 +1,17 @@
+{
+  "name": "paypal_rest_sdk_node",
+  "version": "1.0.0",
+  "description": "paypal simple payment integration with nodejs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Naveen Saini",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "paypal-rest-sdk": "^1.8.1"
+  }
+}
